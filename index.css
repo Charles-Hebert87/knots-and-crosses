@@ -1,0 +1,18 @@
+.container{
+    margin: auto;
+}
+
+.quadrant{
+    display: inline-block;
+    
+    background-color:  red;
+    border: 1px black solid;
+}
+
+.knot{
+    background-color: violet;
+}
+
+.cross{
+    background-color: blue;
+}

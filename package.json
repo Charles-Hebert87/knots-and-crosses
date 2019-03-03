@@ -1,0 +1,26 @@
+{
+  "name": "knots-abd-crosses",
+  "version": "1.0.0",
+  "description": "knots & Crosses",
+  "main": "knots-and-crosses",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "babel": "babel",
+    "test": "test",
+    "bundle": "npm run babel -- index.js -o bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "knots",
+    "crosses"
+  ],
+  "author": "Charles Hebert",
+  "license": "MIT"
+}
